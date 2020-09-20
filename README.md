@@ -15,3 +15,30 @@ Este proyecto de implementación de sistema web se realizó en un servidor local
   javascript
   </li>
 </ul>
+<br>
+Con respecto a los archivo que armaron el sistema. 
+<ul>
+  <li>
+    ADS (en el orden siguiente) incluye el frontend
+    <ul>
+      <li>
+      ADS 4-1
+      </li>
+      <li>
+      ADS 4-2
+      </li>
+      <li>
+      ADS 4-3
+      </li>
+      <li>
+      ADS 4-4
+      </li>
+      <li>
+      ADS 4-5
+      </li>
+    </ul>
+  </li>
+  <li>
+  Las tablas sql para el backend  
+  </li>
+</ul>
